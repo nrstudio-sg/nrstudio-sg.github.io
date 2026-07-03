@@ -1,2 +1,41 @@
-# nrstudio-sg.github.io
-Site oficial da NR Studio | Impressões, Xerox, Currículos e Personalizados. 
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>NR Studio SG</title>
+</head>
+
+<body style="margin:0; font-family:Arial; background:#f4f4f4;">
+
+  <!-- TOPO -->
+  <div style="background:#6a0dad; color:white; padding:40px; text-align:center;">
+    <h1>NR Studio SG</h1>
+    <p>Criações personalizadas em São Gonçalo - RJ</p>
+  </div>
+
+  <!-- CONTEÚDO -->
+  <div style="padding:30px; text-align:center;">
+
+    <h2>Serviços</h2>
+
+    <div style="background:white; margin:10px auto; padding:15px; width:80%; border-radius:10px;">
+      🎨 Identidade Visual
+    </div>
+
+    <div style="background:white; margin:10px auto; padding:15px; width:80%; border-radius:10px;">
+      👕 Camisas personalizadas
+    </div>
+
+    <div style="background:white; margin:10px auto; padding:15px; width:80%; border-radius:10px;">
+      🖥️ Artes digitais
+    </div>
+
+  </div>
+
+  <!-- RODAPÉ -->
+  <div style="background:#222; color:white; text-align:center; padding:15px;">
+    Contato: WhatsApp / Instagram
+  </div>
+
+</body>
+</html>
